@@ -13,7 +13,9 @@
 ## ラボ
 
 **【注意事項】ラボを実施する場合は以下の点に注意が必要です**
+
 1.ラボを実施するためにはサブスクリプションおよびアクセス許可申請が必要です（2023/12現在）
+
 2.プレビュー機能を含むため機能・画面の変更や実行結果が期待された内容と異なる場合があります
 
 * [01: Azure OpenAI Service で作業を開始する](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp/blob/main/Instructions/Labs/01-get-started-azure-openai.md)
@@ -26,6 +28,7 @@
 ## 関連情報リンク
 
 テキストの内容に関する各種リンク集
+
 一部テキストに記載されていないリンクを含みます
 
 ### はじめに
