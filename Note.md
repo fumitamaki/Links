@@ -1,5 +1,11 @@
 # AI-050 Develop Generative AI Solutions with Azure OpenAI Service
 
+## 概要
+
+本ノートはAzure OpenAI Serviceに関する公式テキストや各種情報にアクセス可能なリンク集になります
+
+掲載当時最近の情報であり、リンク数やリンク先の内容は変更される可能性がありますs
+
 ## 公式テキスト
 
 ■[公式テキスト](https://learn.microsoft.com/ja-jp/training/courses/ai-050t00)
