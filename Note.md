@@ -4,7 +4,7 @@
 
 本ノートはAzure OpenAI Serviceに関する公式テキストや各種情報にアクセス可能なリンク集になります
 
-掲載当時最近の情報であり、リンク数やリンク先の内容は変更される可能性がありますs
+掲載当時最近の情報であり、リンク数やリンク先の内容は変更される可能性があります
 
 ## 公式テキスト
 
@@ -39,17 +39,33 @@
 
 ### はじめに
 
+■資格試験
 
+- [AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/credentials/certifications/exams/ai-900/)
+
+- [AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/ja-jp/credentials/certifications/exams/ai-102/)
 
 ### Module01
 
-
-
-
+- [人工知能 (AI) アーキテクチャの設計](https://learn.microsoft.com/ja-jp/azure/architecture/ai-ml/)
+- [Azure Machine Learning におけるディープ ラーニングと機械学習の違い](https://learn.microsoft.com/ja-jp/azure/machine-learning/concept-deep-learning-vs-machine-learning?view=azureml-api-2)
+- [Azure AI サービスとは](https://learn.microsoft.com/ja-jp/azure/ai-services/what-are-ai-services)
+- [Azure AI サービスのドキュメント](https://learn.microsoft.com/ja-jp/azure/ai-services/)
+- [Azure OpenAI Service とは](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/overview)
+- [Azure OpenAI Service の価格](https://azure.microsoft.com/ja-jp/pricing/details/cognitive-services/openai-service/)
+- [Azure OpenAI Service モデル](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models)
+- [Azure OpenAI Service レガシ モデル](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/legacy-models)
+- [Azure AI サービスにおける AI の責任ある使用](https://learn.microsoft.com/ja-jp/azure/ai-services/responsible-use-of-ai-overview)
+- [責任ある信頼された AI](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)
 
 ### Moduel02
 
-
+- [Limited access to Azure OpenAI Service](https://learn.microsoft.com/ja-jp/legal/cognitive-services/openai/limited-access)
+- [Request Access to Azure OpenAI Service](https://aka.ms/oai/access)
+- [Azure AI Studio とは?](https://learn.microsoft.com/ja-jp/azure/ai-studio/what-is-ai-studio?tabs=home)
+- [Azure AI Studio ドキュメント](https://learn.microsoft.com/ja-jp/azure/ai-studio/)
+- [Azure OpenAI Service リソースを作成してデプロイする](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/create-resource?pivots=web-portal)
+- [クイック スタート: Azure OpenAI Service を使用してテキストの生成を開始する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio)
 
 
 
