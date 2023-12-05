@@ -66,22 +66,20 @@
 - [Azure AI Studio ドキュメント](https://learn.microsoft.com/ja-jp/azure/ai-studio/)
 - [Azure OpenAI Service リソースを作成してデプロイする](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/create-resource?pivots=web-portal)
 - [クイック スタート: Azure OpenAI Service を使用してテキストの生成を開始する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio)
-
-
-
-
+- [微調整によってモデルをカスタマイズする (プレビュー)](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/fine-tuning?pivots=programming-language-studio&tabs=turbo)
+- [クイックスタート: Azure OpenAI Service で GPT-35-Turbo と GPT-4 を使い始める](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio#playground)
+- [独自のデータに基づく Azure OpenAI (プレビュー)](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
+- [Azure OpenAI Service のクォータと制限](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quotas-limits)
 
 ### Module03
 
-
-
-
-
-
+- [Azure OpenAI Service の REST API リファレンス](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/reference)
+- [Python を使用して OpenAI エンドポイントと Azure OpenAI エンドポイントを切り替える方法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/switching-endpoints)
+- [.NET 用 Azure OpenAI クライアント ライブラリ - バージョン 1.0.0-beta.9](https://learn.microsoft.com/ja-jp/dotnet/api/overview/azure/ai.openai-readme?view=azure-dotnet-preview)
 
 ### Module04
 
-
+- [プロンプト エンジニアリングの手法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
 
 
 
