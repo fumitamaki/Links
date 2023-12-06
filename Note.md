@@ -6,21 +6,19 @@
 
 > [!Note]
 >
->  掲載当時における最新情報であり、リンク数やリンク先の内容は変更される可能性があります
+>  掲載当時における最新情報であり、本ノートおよびリンク先の内容は予告なく変更される可能性があります
 
 ## 関連情報リンク
 
-テキストの内容に関する各種リンク集
-
-一部テキストに記載されていないリンクを含みます
-
-### はじめに
+### イントロダクション
 
 ■Microsoft Learnにおける本コースのラーニングパス
 
 - [コース AI-050T00: Azure OpenAI Service を使用して生成 AI ソリューションを開発する](https://learn.microsoft.com/ja-jp/training/courses/ai-050t00)
 
-■資格試験
+■MicrosoftのAIに関連する資格試験
+
+※2023/12現在はAI-050に関する試験および資格は存在していません
 
 - [AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/credentials/certifications/exams/ai-900/)
 - [AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/ja-jp/credentials/certifications/exams/ai-102/)
