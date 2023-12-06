@@ -43,11 +43,14 @@
 - [Azure OpenAI Service の価格](https://azure.microsoft.com/ja-jp/pricing/details/cognitive-services/openai-service/)
 - [Azure OpenAI Service モデル](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models)
 - [Azure OpenAI Service レガシ モデル](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/legacy-models)
+- [Azure OpenAI Service に関してよく寄せられる質問](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/faq)
 
 ■Responsible AI
 
 - [Azure AI サービスにおける AI の責任ある使用](https://learn.microsoft.com/ja-jp/azure/ai-services/responsible-use-of-ai-overview)
 - [責任ある信頼された AI](https://learn.microsoft.com/ja-jp/azure/cloud-adoption-framework/innovate/best-practices/trusted-ai)
+- [Code of conduct for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/code-of-conduct)
+- [Data, privacy, and security for Azure OpenAI Service](https://learn.microsoft.com/en-us/legal/cognitive-services/openai/data-privacy)
 
 ### Moduel02
 
@@ -65,6 +68,7 @@
 - [Azure OpenAI Service リソースを作成してデプロイする](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/create-resource?pivots=web-portal)
 - [微調整によってモデルをカスタマイズする (プレビュー)](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/fine-tuning?pivots=programming-language-studio&tabs=turbo)
 - [独自のデータに基づく Azure OpenAI (プレビュー)](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
+- [Azure AI Search とは](https://learn.microsoft.com/ja-jp/azure/search/search-what-is-azure-search)
 - [Azure OpenAI Service のクォータと制限](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quotas-limits)
 
 ### Module03
@@ -72,8 +76,8 @@
 [Module03: Azure OpenAI Service を使用して自然言語ソリューションを構築する | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/build-language-solution-azure-openai/)
 
 - [Azure OpenAI Service の REST API リファレンス](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/reference)
-- [Python を使用して OpenAI エンドポイントと Azure OpenAI エンドポイントを切り替える方法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/switching-endpoints)
 - [.NET 用 Azure OpenAI クライアント ライブラリ - バージョン 1.0.0-beta.9](https://learn.microsoft.com/ja-jp/dotnet/api/overview/azure/ai.openai-readme?view=azure-dotnet-preview)
+- [Python を使用して OpenAI エンドポイントと Azure OpenAI エンドポイントを切り替える方法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/switching-endpoints)
 
 ### Module04
 
@@ -83,6 +87,8 @@
 - [プロンプト エンジニアリングの概要](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/prompt-engineering)
 - [プロンプト エンジニアリングの手法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
 - [Jailbreak Chat](https://www.jailbreakchat.com/)※非MS公式サイト
+- [コンテンツのフィルター処理](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/content-filter?tabs=warning%2Cpython)
+- [Azure AI Content Safety とは?](https://learn.microsoft.com/ja-jp/azure/ai-services/content-safety/overview)
 
 
 ## ラボ&クイックスタート（チュートリアル）
@@ -101,6 +107,7 @@
 * [04: Azure OpenAI Service を使用してコードを生成して改善する](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp/blob/main/Instructions/Labs/04-code-generation.md)
 * [05: DALL-E モデルを使用して画像を生成する](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp/blob/main/Instructions/Labs/05-generate-images.md)
 * [06: Azure OpenAI で独自のデータを使用する](https://github.com/MicrosoftLearning/mslearn-openai.ja-jp/blob/main/Instructions/Labs/06-use-own-data.md)
-* [クイック スタート: Azure OpenAI Service を使用してテキストの生成を開始する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio) ※入力候補プレイグラウンド
-* [クイックスタート: Azure OpenAI Service で GPT-35-Turbo と GPT-4 を使い始める](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio#playground) ※チャットプレイグラウンド
+* [クイック スタート: Azure OpenAI Service を使用してテキストの生成を開始する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio) ※入力候補
+* [クイックスタート: Azure OpenAI Service で GPT-35-Turbo と GPT-4 を使い始める](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio#playground) ※チャット
+* [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) ※チャットアプリ作成サンプル
 
