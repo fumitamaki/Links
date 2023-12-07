@@ -83,12 +83,12 @@
 
 [Module04: Azure OpenAI Service を使用してプロンプト エンジニアリングを適用する | Microsoft Learn](https://learn.microsoft.com/ja-jp/training/modules/apply-prompt-engineering-azure-openai/)
 
-- [Prompt Engineering Guide](https://www.promptingguide.ai/jp) ※非MS公式サイト
 - [プロンプト エンジニアリングの概要](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/prompt-engineering)
 - [プロンプト エンジニアリングの手法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/advanced-prompt-engineering?pivots=programming-language-chat-completions)
-- [Jailbreak Chat](https://www.jailbreakchat.com/)※非MS公式サイト
 - [コンテンツのフィルター処理](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/content-filter?tabs=warning%2Cpython)
 - [Azure AI Content Safety とは?](https://learn.microsoft.com/ja-jp/azure/ai-services/content-safety/overview)
+- [Prompt Engineering Guide](https://www.promptingguide.ai/jp) ※非MS公式サイト
+- [Jailbreak Chat](https://www.jailbreakchat.com/)※非MS公式サイト
 
 
 ## ラボ&クイックスタート（チュートリアル）
