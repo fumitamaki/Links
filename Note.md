@@ -70,6 +70,7 @@
 - [独自のデータに基づく Azure OpenAI (プレビュー)](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
 - [Azure AI Search とは](https://learn.microsoft.com/ja-jp/azure/search/search-what-is-azure-search)
 - [Azure OpenAI Service のクォータと制限](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quotas-limits)
+- [Azure OpenAI Service のクォータを管理する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/quota)
 
 ### Module03
 
