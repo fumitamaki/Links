@@ -44,6 +44,7 @@
 - [Azure OpenAI Service モデル](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models)
 - [Azure OpenAI Service レガシ モデル](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/legacy-models)
 - [Azure OpenAI Service に関してよく寄せられる質問](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/faq)
+- [Tokenizer](https://platform.openai.com/tokenizer) ※OpenAI社サイト
 
 ■Responsible AI
 
