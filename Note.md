@@ -14,7 +14,7 @@
 
 ■Microsoft Learnにおける本コースのラーニングパス
 
-- [コース AI-050T00: Azure OpenAI Service を使用して生成 AI ソリューションを開発する](https://learn.microsoft.com/ja-jp/training/courses/ai-050t00){:target="_blank"}
+- [コース AI-050T00: Azure OpenAI Service を使用して生成 AI ソリューションを開発する](https://learn.microsoft.com/ja-jp/training/courses/ai-050t00)
 
 ■MicrosoftのAIに関連する資格試験
 
