@@ -114,4 +114,5 @@
 * [クイック スタート: Azure OpenAI Service を使用してテキストの生成を開始する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio) ※入力候補
 * [クイックスタート: Azure OpenAI Service で GPT-35-Turbo と GPT-4 を使い始める](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio#playground) ※チャット
 * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) ※チャットアプリ作成サンプル
+* [Azure OpenAI Samples Japan](https://github.com/Azure-Samples/jp-azureopenai-samples/tree/main) ※リファレンスアーキテクチャサンプル
 
