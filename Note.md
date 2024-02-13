@@ -67,7 +67,7 @@
 - [Azure AI Studio とは?](https://learn.microsoft.com/ja-jp/azure/ai-studio/what-is-ai-studio?tabs=home)
 - [Azure AI Studio ドキュメント](https://learn.microsoft.com/ja-jp/azure/ai-studio/)
 - [Azure OpenAI Service リソースを作成してデプロイする](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/create-resource?pivots=web-portal)
-- [微調整によってモデルをカスタマイズする (プレビュー)](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/fine-tuning?pivots=programming-language-studio&tabs=turbo)
+- [微調整によってモデルをカスタマイズする](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/fine-tuning?pivots=programming-language-studio&tabs=turbo)
 - [独自のデータに基づく Azure OpenAI (プレビュー)](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
 - [Azure AI Search とは](https://learn.microsoft.com/ja-jp/azure/search/search-what-is-azure-search)
 - [Azure OpenAI Service のクォータと制限](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quotas-limits)
