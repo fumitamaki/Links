@@ -18,7 +18,7 @@
 
 ■MicrosoftのAIに関連する資格試験
 
-※2023/12現在はAI-050に関する試験および資格は存在していません
+※2024/2現在はAI-050に関する試験および資格は存在していません
 
 - [AI-900: Microsoft Azure AI Fundamentals](https://learn.microsoft.com/ja-jp/credentials/certifications/exams/ai-900/)
 - [AI-102: Designing and Implementing a Microsoft Azure AI Solution](https://learn.microsoft.com/ja-jp/credentials/certifications/exams/ai-102/)
@@ -101,7 +101,7 @@
 >
 > ラボを実施する場合は以下の点に注意が必要です
 >
-> 1.ラボを実施するためにはサブスクリプションおよびアクセス許可申請が必要です（2023/12現在）
+> 1.ラボを実施するためにはサブスクリプションおよびアクセス許可申請が必要です（2024/2現在）
 >
 > 2.プレビュー機能を含むため機能・画面の変更や実行結果が期待された内容と異なる場合があります
 
@@ -115,4 +115,3 @@
 * [クイックスタート: Azure OpenAI Service で GPT-35-Turbo と GPT-4 を使い始める](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Cpython&pivots=programming-language-studio#playground) ※チャット
 * [sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) ※チャットアプリ作成サンプル
 * [Azure OpenAI Samples Japan](https://github.com/Azure-Samples/jp-azureopenai-samples/tree/main) ※リファレンスアーキテクチャサンプル
-
