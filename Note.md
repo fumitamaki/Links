@@ -80,6 +80,8 @@
 - [Azure OpenAI Service の REST API リファレンス](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/reference)
 - [.NET 用 Azure OpenAI クライアント ライブラリ - バージョン 1.0.0-beta.9](https://learn.microsoft.com/ja-jp/dotnet/api/overview/azure/ai.openai-readme?view=azure-dotnet-preview)
 - [Python を使用して OpenAI エンドポイントと Azure OpenAI エンドポイントを切り替える方法](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/switching-endpoints)
+- [Azure OpenAI Service の監視](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/monitoring)
+- [Azure OpenAI Service リファレンスアーキテクチャ](https://www.microsoft.com/ja-jp/events/azurebase/contents/default.aspx?pg=AzureOAIS)
 
 ### Module04
 
