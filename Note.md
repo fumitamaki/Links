@@ -100,7 +100,6 @@
 - [コンテンツのフィルター処理](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/content-filter?tabs=warning%2Cpython)
 - [Azure AI Content Safety とは?](https://learn.microsoft.com/ja-jp/azure/ai-services/content-safety/overview)
 - [Prompt Engineering Guide](https://www.promptingguide.ai/jp) ※非MS公式サイト
-- [Jailbreak Chat](https://www.jailbreakchat.com/)※非MS公式サイト
 
 
 ## ラボ&クイックスタート（チュートリアル）
