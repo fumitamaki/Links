@@ -40,9 +40,11 @@
 ■Azure OpenAI Service
 
 - [Azure OpenAI Service とは](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/overview)
+- [Azure OpenAI Service の新機能](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/whats-new)
 - [Azure OpenAI Service の価格](https://azure.microsoft.com/ja-jp/pricing/details/cognitive-services/openai-service/)
 - [Azure OpenAI Service モデル](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/models)
 - [Azure OpenAI Service で非推奨のモデル](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/legacy-models)
+- [Azure OpenAI Service モデルの非推奨と提供終了](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/model-retirements)
 - [Azure OpenAI Service に関してよく寄せられる質問](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/faq)
 - [Tokenizer](https://platform.openai.com/tokenizer) ※OpenAI社サイト
 
@@ -70,8 +72,10 @@
 - [Azure OpenAI On Your Data](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/concepts/use-your-data?tabs=ai-search)
 - [Azure AI Search とは](https://learn.microsoft.com/ja-jp/azure/search/search-what-is-azure-search)
 - [Azure AI Search での取得拡張生成 (RAG)](https://learn.microsoft.com/ja-jp/azure/search/retrieval-augmented-generation-overview)
+- [データに対して Azure OpenAI を安全に使用する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/use-your-data-securely)
 - [Azure OpenAI Service のクォータと制限](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/quotas-limits)
 - [Azure OpenAI Service のクォータを管理する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/quota)
+- [Azure OpenAI でブロックリストを使用する](https://learn.microsoft.com/ja-jp/azure/ai-services/openai/how-to/use-blocklists)
 
 ### Module03
 
